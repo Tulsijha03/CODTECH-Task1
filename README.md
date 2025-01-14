@@ -6,7 +6,7 @@ DURATION : December 2024 - January 2025
 MENTOR : SANTHOSH
 
 #### **Project Overview**
-The e-commerce website is a full-stack application developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It serves as a platform for users to browse, purchase, and manage products efficiently, providing an intuitive and responsive user experience.
+The Shopez : e-commerce website is a full-stack application developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It serves as a platform for users to browse, purchase, and manage products efficiently, providing an intuitive and responsive user experience.
 
 #### **Features Implemented**
 1. **User Authentication and Authorization**:
