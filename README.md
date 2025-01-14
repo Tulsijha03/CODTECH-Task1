@@ -52,3 +52,5 @@ The e-commerce website is a full-stack application developed using the MERN stac
 4. Integrate real-time customer support chat.
 
 This project demonstrates proficiency in the MERN stack and emphasizes scalable, secure, and user-friendly web applications.
+
+[Output Screenshots (1).pdf](https://github.com/user-attachments/files/18412209/Output.Screenshots.1.pdf)
